@@ -8,3 +8,5 @@
 - 💬 Ask me about **Python, or any tech related stuff**.
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vneogi199/) / [**Stack Overflow**](https://stackoverflow.com/users/6341757/vinit-neogi?tab=profile)
 - ⚡ Fun fact: **I'm an Arsenal F.C. fan**.
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=vneogi199&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
