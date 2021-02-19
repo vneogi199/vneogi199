@@ -24,7 +24,8 @@
 [![Linkedin: vneogi199](https://img.shields.io/badge/-vneogi199-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vneogi199/)](https://www.linkedin.com/in/vneogi199/)
 [![GitHub vneogi199](https://img.shields.io/github/followers/vneogi199?label=follow&style=social)](https://github.com/vneogi199)
 
-**Languages and Tools:**  
+# Languages and Tools:
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -35,6 +36,8 @@
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&theme=dark&hide_langs_below=1" />
 </a>
+
+# Github Stats
 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=vneogi199&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
