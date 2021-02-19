@@ -35,12 +35,7 @@
 
 # Github Stats
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&theme=dark&hide_langs_below=1" />
-</a>
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=vneogi199&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&theme=dark&hide_langs_below=1)  |  ![](https://github-readme-stats.vercel.app/api?username=vneogi199&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
 
 
 <div align="center">
