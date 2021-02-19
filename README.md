@@ -33,12 +33,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 
+# Github Stats
+
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&theme=dark&hide_langs_below=1" />
 </a>
-
-# Github Stats
-
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=vneogi199&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
 
