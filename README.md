@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [**Mutual Funds Moving Average Webapp**](https://github.com/vneogi199/Mutual-Funds-Moving-Average-Webapp) - [**[Demo]**](https://mutual-funds-moving-avg-webapp.herokuapp.com/)
+- 🔭 I’m currently working on [**Air Quality Index Prediction using Python**](https://github.com/vneogi199/Air-Quality-Index-Prediction-using-Python) - [**[Demo]**](https://aqi-prediction.herokuapp.com/aqi-frontend)
 - 🌱 I’m currently learning **Machine Learning**.
 - 💻 I’m looking to collaborate on **Data Science projects**.
 - 💬 Ask me about **Python, or any tech related stuff**.
