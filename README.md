@@ -15,10 +15,6 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [**Air Quality Index Prediction using Python**](https://github.com/vneogi199/Air-Quality-Index-Prediction-using-Python) - [**[Demo]**](https://aqi-prediction.herokuapp.com/aqi-frontend)
-- 🌱 I’m currently learning **Machine Learning**.
-- 💻 I’m looking to collaborate on **Data Science projects**.
-- 💬 Ask me about **Python, or any tech related stuff**.
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vneogi199/) / [**Stack Overflow**](https://stackoverflow.com/users/6341757/vinit-neogi?tab=profile)
 
 [![Linkedin: vneogi199](https://img.shields.io/badge/-vneogi199-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vneogi199/)](https://www.linkedin.com/in/vneogi199/)
@@ -27,15 +23,15 @@
 # Languages and Tools:
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 # Github Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&theme=dark&hide_langs_below=1)  |  ![](https://github-readme-stats.vercel.app/api?username=vneogi199&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&theme=dracula&hide_langs_below=1)
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=vneogi199&theme=dracula)
 
