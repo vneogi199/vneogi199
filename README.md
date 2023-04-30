@@ -2,16 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vneogi199&label=Views&color=blue&style=plastic" alt="vneogi199" /> </p>
 
-<a href="https://www.linkedin.com/in/vneogi199/" target="_blank">
-  <img align="left" alt="Vinit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/vneogi199">
-  <img align="left" alt="Vinit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://stackoverflow.com/users/6341757/vinit-neogi?tab=profile">
-  <img align="left" alt="Vinit's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-
 [![Linkedin: vneogi199](https://img.shields.io/badge/-vneogi199-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vneogi199/)](https://www.linkedin.com/in/vneogi199/)
 [![GitHub vneogi199](https://img.shields.io/github/followers/vneogi199?label=follow&style=social)](https://github.com/vneogi199)
 <a href="https://stackoverflow.com/users/6341757/vinit-neogi"><img src="https://stackoverflow.com/users/flair/6341757.png" width="208" height="58" alt="profile for Vinit Neogi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vinit Neogi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
