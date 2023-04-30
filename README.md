@@ -12,9 +12,6 @@
   <img align="left" alt="Vinit's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-<br/>
-<br/>
-
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vneogi199/) / [**Stack Overflow**](https://stackoverflow.com/users/6341757/vinit-neogi?tab=profile)
 
 [![Linkedin: vneogi199](https://img.shields.io/badge/-vneogi199-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vneogi199/)](https://www.linkedin.com/in/vneogi199/)
