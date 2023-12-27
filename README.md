@@ -20,7 +20,6 @@
 
 
 # Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vneogi199)](https://github.com/vneogi199?tab=repositories)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&hide_langs_below=1)
 
