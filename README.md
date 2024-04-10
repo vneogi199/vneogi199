@@ -23,8 +23,6 @@
 
 # Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vneogi199&hide_langs_below=1)
-
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=vneogi199)
 
 ![Stats](https://github-readme-stats.vercel.app/api/?username=vneogi199)
