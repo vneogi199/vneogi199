@@ -1,31 +1,31 @@
-# Hello there, I'm Vinit Neogi! 👋
+# Vinit Neogi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vneogi199&label=Views&color=blue&style=plastic" alt="vneogi199" /> </p>
+I'm a Lead Software Engineer with 8+ years of experience, currently at Morgan Stanley. I build financial applications, internal developer platforms and applied AI tools, mainly with Python/FastAPI and React/TypeScript.
 
-[![Linkedin: vneogi199](https://img.shields.io/badge/-vneogi199-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vneogi199/)](https://www.linkedin.com/in/vneogi199/)
-[![GitHub vneogi199](https://img.shields.io/github/followers/vneogi199?label=follow&style=social)](https://github.com/vneogi199)
-<a href="https://stackoverflow.com/users/6341757/vinit-neogi"><img src="https://stackoverflow.com/users/flair/6341757.png" width="208" height="58" alt="profile for Vinit Neogi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vinit Neogi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+Based in Mumbai, India, I'm open to employer-supported relocation to Germany, the Netherlands, the UK, Singapore, Dubai and the wider UAE, and elsewhere in Europe.
 
-# Languages and Tools:
+[Portfolio](https://vneogi199.github.io/) · [LinkedIn](https://www.linkedin.com/in/vinitneogi/) · [Stack Overflow](https://stackoverflow.com/users/6341757/vinit-neogi)
 
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/126733545"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/156354296"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/288276"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/21206976"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/23692104"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/6471485"></code>
+## Recent work
 
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
+- Built a Python, PostgreSQL and React publish/subscribe configuration system that cut update turnaround from two working days to the same day. I also own release controls, developer adoption and operational support across 4 teams.
+- Built and deployed a Visual Studio Code RAG coding assistant with Python, OpenAI models, LangChain and FAISS, used in production by 30+ internal developers.
+- Built a React, FastAPI and PostgreSQL risk-monitoring application that helped reduce limit breaches by 17%.
+- Designed and built a shared React/Angular component library used across 600+ internal applications, with responsibility for API design, releases, versioning and migration support.
 
-</div>
+More detail on this work is in my [portfolio](https://vneogi199.github.io/projects/). The public projects below cover personal and internship work.
+
+## Technologies I use
+
+- Python, FastAPI, TypeScript, React, SQL and PostgreSQL
+- OpenAI APIs, RAG, LangChain and FAISS
+- Docker, Jenkins, GitHub Enterprise Cloud, Vite, Nx and Storybook
+- Platform configuration, publish/subscribe, release controls and developer tooling
+
+## Public projects
+
+- [Air Quality Index Prediction](https://github.com/vneogi199/Air-Quality-Index-Prediction-using-Python): a React and Flask application comparing regression models for AQI prediction.
+- [Phishing Detection](https://github.com/vneogi199/Phishing-detection-using-data-mining-Python): a team project using a Random Forest classifier and a Chrome extension.
+- [ExTra Expense Tracker](https://github.com/vneogi199/ExTra-ExpenseTracker): an Android expense tracker built during my Hasura internship.
+
+I have also contributed features and bug fixes to the [Nx Vite builder](https://github.com/nrwl/nx).
