@@ -28,4 +28,6 @@ More detail on this work is in my [portfolio](https://vneogi199.github.io/projec
 - [Phishing Detection](https://github.com/vneogi199/Phishing-detection-using-data-mining-Python): a team project using a Random Forest classifier and a Chrome extension.
 - [ExTra Expense Tracker](https://github.com/vneogi199/ExTra-ExpenseTracker): an Android expense tracker built during my Hasura internship.
 
-I have also contributed features and bug fixes to the [Nx Vite builder](https://github.com/nrwl/nx).
+Selected merged contributions to Nx/Vite:
+- [Custom TypeScript configuration support for type checking](https://github.com/nrwl/nx/pull/19784)
+- [Prevent unwanted package.json copying when generation is disabled](https://github.com/nrwl/nx/pull/19780)
