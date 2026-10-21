@@ -8,7 +8,7 @@ Based in Mumbai, India, I'm open to employer-supported relocation to Germany, th
 
 ## Recent work
 
-- Built a Python, PostgreSQL and React publish/subscribe configuration system that cut update turnaround from two working days to the same day. I also own release controls, developer adoption and operational support across 4 teams.
+- Built a Python, PostgreSQL and React publish/subscribe [configuration system](https://vneogi199.github.io/projects/internal-developer-platform/) that cut update turnaround from two working days to the same day. I also own release controls, developer adoption and operational support across 4 teams.
 - Built and deployed a Visual Studio Code RAG coding assistant with Python, OpenAI models, LangChain and FAISS, used in production by 30+ internal developers.
 - Built a React, FastAPI and PostgreSQL risk-monitoring application that helped reduce limit breaches by 17%.
 - Designed and built a shared React/Angular component library used across 600+ internal applications, with responsibility for API design, releases, versioning and migration support.
