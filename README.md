@@ -22,12 +22,14 @@ More detail on this work is in my [portfolio](https://vneogi199.github.io/projec
 - Docker, Jenkins, GitHub Enterprise Cloud, Vite, Nx and Storybook
 - Platform configuration, publish/subscribe, release controls and developer tooling
 
+## Merged open-source contributions
+
+Selected merged contributions to Nx/Vite:
+- [Custom TypeScript configuration support for type checking](https://github.com/nrwl/nx/pull/19784)
+- [Prevent unwanted package.json copying when generation is disabled](https://github.com/nrwl/nx/pull/19780)
+
 ## Public projects
 
 - [Air Quality Index Prediction](https://github.com/vneogi199/Air-Quality-Index-Prediction-using-Python): a React and Flask application comparing regression models for AQI prediction.
 - [Phishing Detection](https://github.com/vneogi199/Phishing-detection-using-data-mining-Python): a team project using a Random Forest classifier and a Chrome extension.
 - [ExTra Expense Tracker](https://github.com/vneogi199/ExTra-ExpenseTracker): an Android expense tracker built during my Hasura internship.
-
-Selected merged contributions to Nx/Vite:
-- [Custom TypeScript configuration support for type checking](https://github.com/nrwl/nx/pull/19784)
-- [Prevent unwanted package.json copying when generation is disabled](https://github.com/nrwl/nx/pull/19780)
