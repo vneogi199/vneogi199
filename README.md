@@ -1,6 +1,6 @@
 # Vinit Neogi
 
-I'm a Lead Software Engineer with 8+ years of experience, currently at Morgan Stanley. I build financial applications, internal developer platforms and applied AI tools, mainly with Python/FastAPI and React/TypeScript.
+I'm a Lead Software Engineer at Morgan Stanley with 8+ years of experience in financial software. My current focus is Python, FastAPI, React and TypeScript. I build financial applications, internal developer platforms and applied AI tools.
 
 Based in Mumbai, India, I'm open to employer-supported relocation to Germany, the Netherlands, the UK, Singapore, Dubai and the wider UAE, and elsewhere in Europe.
 
@@ -9,9 +9,12 @@ Based in Mumbai, India, I'm open to employer-supported relocation to Germany, th
 ## Recent work
 
 - Built a Python, PostgreSQL and React publish/subscribe [configuration system](https://vneogi199.github.io/projects/internal-developer-platform/) that cut update turnaround from two working days to the same day. I also own release controls, developer adoption and operational support across 4 teams.
-- Built and deployed a Visual Studio Code RAG coding assistant with Python, OpenAI models, LangChain and FAISS, used in production by 30+ internal developers.
-- Built a React, FastAPI and PostgreSQL risk-monitoring application that helped reduce limit breaches by 17%.
-- Designed and built a shared React/Angular component library used across 600+ internal applications, with responsibility for API design, releases, versioning and migration support.
+- Conceived, built and deployed a Visual Studio Code RAG assistant using Python, OpenAI models, LangChain, FAISS and internal documentation. Used in production by 30+ internal developers, it now answers library questions that previously required my support. Users reported less manual coding.
+- Built a React, FastAPI and PostgreSQL risk-monitoring application that helped reduce limit breaches by 17% compared with the previous system. Consolidated data from 4 financial systems with Python, Pandas and NumPy so senior management could track risk in one place.
+- Designed and built a React 18/Angular 17 component library used across 600+ internal applications, owning API design, releases, versioning and migration support in a monorepo with over one million lines of code.
+- Earlier, built the library's Angular 14 layer with reusable components, services and libraries, unit tests and Storybook examples. Supported UMD, CommonJS (CJS) and ES module (MJS) outputs and helped four downstream library users adopt it.
+- Reduced annual compute and storage costs by 22% by moving VPS deployments from an NFS shared drive to Docker containers in a cloud environment with resource scaling.
+- Lead and mentor 6 full-stack developers across delivery, architecture, testing and deployment.
 
 More detail on this work is in my [portfolio](https://vneogi199.github.io/projects/). The public projects below cover personal and internship work.
 
